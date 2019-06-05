@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "packages/*",
+    "modules/*"
+  ],
+  "version": "independent",
+  "useGitVersion": true,
+  "gitVersionPrefix": "v"
+}

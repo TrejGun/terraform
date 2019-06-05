@@ -1,0 +1,12 @@
+{
+  "repositoryMetadata": {
+    "repositoryName": "optimize",
+    "cloneUrlSsh": "ssh://git-codecommit.eu-west-1.amazonaws.com/v1/repos/optimize",
+    "lastModifiedDate": 1559572950.367,
+    "repositoryId": "dbe19204-36d1-4752-b563-21bbb770291b",
+    "cloneUrlHttp": "https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/optimize",
+    "creationDate": 1559572950.367,
+    "Arn": "arn:aws:codecommit:eu-west-1:852196116519:optimize",
+    "accountId": "852196116519"
+  }
+}

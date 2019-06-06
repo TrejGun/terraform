@@ -1,0 +1,9 @@
+{
+  "repository": {
+    "registryId": "852196116519",
+    "repositoryName": "first",
+    "repositoryArn": "arn:aws:ecr:eu-west-1:852196116519:repository/first",
+    "createdAt": 1559797257.0,
+    "repositoryUri": "852196116519.dkr.ecr.eu-west-1.amazonaws.com/first"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "eslint": "5.16.0",
-    "lerna": "3.13.4"
+    "lerna": "3.15.0"
   },
   "engines": {
     "node": ">=10.15.3"
@@ -21,6 +21,7 @@
     "start:prod": "lerna exec --parallel --ignore optimize-* -- npm run start:prod",
     "start:staging": "lerna exec --parallel --ignore optimize-* -- npm run start:staging",
     "start:test": "lerna exec --parallel --ignore optimize-* -- npm run start:test",
-    "test": "lerna exec -- npm t"
+    "test": "lerna exec -- npm t",
+    "version": "lerna version --conventional-commits --create-release github"
   }
 }

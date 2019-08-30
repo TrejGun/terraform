@@ -1,13 +1,7 @@
-#project
-/modules
-/packages
-/logs
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
 
-# IDEA
-/.idea
-
-# Mac
-.DS_Store
-
-# NODE
-/node_modules
+# Module directory
+.terraform/
